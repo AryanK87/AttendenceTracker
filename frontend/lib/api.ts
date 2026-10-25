@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://attendencetracker-4jeg.onrender.com";
 import { getToken } from "./auth";
 
 // Helper to attach token to headers
